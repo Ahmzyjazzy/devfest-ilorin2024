@@ -17,7 +17,7 @@ import {
 import React, { useRef } from "react";
 import { RiMenu3Line } from "react-icons/ri";
 import { NavMenuProps } from "./NavMenu";
-import { ctaLinks, menuLinks, newMenuLinks } from "@/data";
+import { ctaLinks, menuLinks, newMenuLinks } from "@/data/2024";
 import clsx from "clsx";
 import Link from "next/link";
 import { BsArrowUpRight } from "react-icons/bs";

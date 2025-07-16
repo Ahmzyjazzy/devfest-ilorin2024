@@ -1,4 +1,4 @@
-import { ctaLinks, menuLinks, newMenuLinks } from "@/data";
+import { ctaLinks, menuLinks, newMenuLinks } from "@/data/2024";
 import React from "react";
 import { NavMenuProps } from "./NavMenu";
 import clsx from "clsx";

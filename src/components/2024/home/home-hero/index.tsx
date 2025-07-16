@@ -3,7 +3,7 @@ import Link from "next/link";
 import React from "react";
 import { BsArrowUpRight } from "react-icons/bs";
 import ConfettiContainer from "@/components/2024/confetti/ConfettiContainer";
-import { ctaLinks } from "@/data/2024/global";
+import { ctaLinks } from "@/data/2024";
 // import Image from "next/image";
 // import sunset from "@public/icons/icon-sunset.svg";
 

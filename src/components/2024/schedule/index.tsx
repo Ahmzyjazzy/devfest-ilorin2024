@@ -1,7 +1,7 @@
 import React from "react";
 import ScheduleCard from "./ScheduleCard";
 import SectionTitle from "../section-title";
-import { ctaLinks } from "@/data/2024/global";
+import { ctaLinks } from "@/data/2024";
 
 const schedule = [
   // {
