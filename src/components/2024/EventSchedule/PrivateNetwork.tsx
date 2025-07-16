@@ -3,7 +3,7 @@ import Image from "next/image";
 import { Button } from "@chakra-ui/react";
 import { BsArrowUpRight } from "react-icons/bs";
 import lanyard from "@public/icons/lanyard-white-bg.svg";
-import { ctaLinks } from "@/data";
+import { ctaLinks } from "@/data/2024";
 
 const PrivateNetwork: React.FC = () => {
   return (

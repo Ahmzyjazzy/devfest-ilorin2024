@@ -3,7 +3,7 @@ import Image from "next/image";
 import { Button } from "@chakra-ui/react";
 import { BsArrowUpRight } from "react-icons/bs";
 import lanyard from "@public/icons/lanyard-white-bg.svg";
-import { ctaLinks } from "@/data";
+import { ctaLinks } from "@/data/2024";
 import {
   LongEventScheduleCard,
   PanelEventScheduleCard,
@@ -14,7 +14,7 @@ import {
   scheduleFour,
   scheduleThree,
   scheduleTwo,
-} from "@/data/schedule";
+} from "@/data/2024/schedule";
 
 import aliyu from "@public/speakers/aliyu.png";
 import tosin from "@public/speakers/tosin.png";

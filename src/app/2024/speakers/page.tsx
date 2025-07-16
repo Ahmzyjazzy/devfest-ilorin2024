@@ -1,6 +1,6 @@
 "use client";
 
-import { ctaLinks, speakers } from "@/data";
+import { ctaLinks, speakers } from "@/data/2024";
 import DateAndLocation from "@/components/2024/date-and-location";
 import SpeakersCard from "@/components/2024/speakers-card";
 

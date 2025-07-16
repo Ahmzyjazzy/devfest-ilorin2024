@@ -26,7 +26,7 @@ export const socialLinks: SocialLinks[] = [
 export const menuLinks: MenuItem[] = [
   {
     title: "Get DP",
-    path: "/get-dp",
+    path: "/2024/get-dp",
   },
   {
     title: "Speakers",

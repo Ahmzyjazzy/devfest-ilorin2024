@@ -6,7 +6,7 @@ import Image from "next/image";
 import { Button } from "@chakra-ui/react";
 import Link from "next/link";
 import { BsArrowUpRight } from "react-icons/bs";
-import { ctaLinks, sponsors } from "@/data";
+import { ctaLinks, sponsors } from "@/data/2024";
 
 export default function SponsorsPage() {
   const renderSponsors = (type: string) => {
