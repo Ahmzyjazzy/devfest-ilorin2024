@@ -1,6 +1,6 @@
 import React from "react";
 import devfestFrame from "@public/devfest-lanyard.png";
-import DateAndLocation from "@/components/date-and-location";
+import DateAndLocation from "@/components/2024/date-and-location";
 import Image from "next/image";
 
 import { Button } from "@chakra-ui/react";

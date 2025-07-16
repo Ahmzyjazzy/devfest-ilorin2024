@@ -5,7 +5,7 @@ import EventRecap from "../home/event-recap";
 import ThankYouHomeHero from "../home/thank-you-home-hero";
 import SpeakerSection from "../home/speaker-section";
 import SectionTitle from "../section-title";
-import { partners, sponsors } from "@/data";
+import { partners, sponsors } from "@/data/2024";
 import Link from "next/link";
 
 export default function ThankYou2024() {

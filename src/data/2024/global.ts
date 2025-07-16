@@ -30,19 +30,19 @@ export const menuLinks: MenuItem[] = [
   },
   {
     title: "Speakers",
-    path: "/speakers",
+    path: "/2024/speakers",
   },
   {
     title: "Schedule",
-    path: "/schedule",
+    path: "/2024/schedule",
   },
   {
     title: "Sponsors",
-    path: "/sponsors",
+    path: "/2024/sponsors",
   },
   {
     title: "Team",
-    path: "/team",
+    path: "/2024/team",
   },
 ];
 

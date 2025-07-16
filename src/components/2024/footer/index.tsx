@@ -5,7 +5,7 @@ import logo from "@public/gdg-ilorin-logo.svg";
 import lanyard from "@public/icons/footer-lanyard.svg";
 
 import Link from "next/link";
-import { socialLinks } from "@/data";
+import { socialLinks } from "@/data/2024";
 
 const Footer = () => {
   return (

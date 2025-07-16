@@ -2,7 +2,7 @@ import { Button } from "@chakra-ui/react";
 import Link from "next/link";
 import React from "react";
 import { BsArrowUpRight } from "react-icons/bs";
-import { ctaLinks } from "@/data";
+import { ctaLinks } from "@/data/2024";
 
 const ThankYouHomeHero = () => {
   return (

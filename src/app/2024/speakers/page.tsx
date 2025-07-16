@@ -1,8 +1,8 @@
 "use client";
 
 import { ctaLinks, speakers } from "@/data";
-import DateAndLocation from "@/components/date-and-location";
-import SpeakersCard from "@/components/speakers-card";
+import DateAndLocation from "@/components/2024/date-and-location";
+import SpeakersCard from "@/components/2024/speakers-card";
 
 import devfestFrame from "@public/devfest-lanyard.png";
 // import lanyard from "@public/icons/lanyard-white-bg.svg";

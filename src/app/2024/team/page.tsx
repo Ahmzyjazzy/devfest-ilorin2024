@@ -1,9 +1,9 @@
 import React from "react";
-import DateAndLocation from "@/components/date-and-location";
+import DateAndLocation from "@/components/2024/date-and-location";
 import Image from "next/image";
 import devfestFrame from "@public/devfest-lanyard.png";
-import { team } from "@/data/team";
-import TeamCard from "@/components/team-card";
+import { team } from "@/data/2024/team";
+import TeamCard from "@/components/2024/team-card";
 
 export default function TeamPage() {
   return (
