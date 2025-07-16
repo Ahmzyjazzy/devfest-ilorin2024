@@ -1,5 +1,5 @@
-import ThankYou2024 from "@/components/2024/thank-you-2024";
+import Waitlist from "@/components/2025/waitlist";
 
 export default function Home() {
-  return <ThankYou2024 />;
+  return <Waitlist />;
 }
