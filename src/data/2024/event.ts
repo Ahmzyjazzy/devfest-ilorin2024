@@ -1,16 +1,16 @@
 import { RecapItem } from "@/types";
-import Recap1Img from "@public/event-recaps/recap-1.png";
+import Recap1Img from "@public/2024/event-recaps/recap-1.png";
 // import Recap2Img from "@public/event-recaps/recap-2.png";
-import Recap3Img from "@public/event-recaps/recap-3.png";
-import Recap4Img from "@public/event-recaps/recap-4.png";
-import Recap5Img from "@public/event-recaps/recap-5.png";
-import Recap6Img from "@public/event-recaps/recap-6.png";
-import Recap7Img from "@public/event-recaps/recap-7.png";
-import Recap8Img from "@public/event-recaps/recap-8.png";
-import Recap9Img from "@public/event-recaps/recap-9.png";
-import Recap10Img from "@public/event-recaps/recap-10.png";
-import Recap11Img from "@public/event-recaps/recap-11.png";
-import Recap12Img from "@public/event-recaps/recap-12.png";
+import Recap3Img from "@public/2024/event-recaps/recap-3.png";
+import Recap4Img from "@public/2024/event-recaps/recap-4.png";
+import Recap5Img from "@public/2024/event-recaps/recap-5.png";
+import Recap6Img from "@public/2024/event-recaps/recap-6.png";
+import Recap7Img from "@public/2024/event-recaps/recap-7.png";
+import Recap8Img from "@public/2024/event-recaps/recap-8.png";
+import Recap9Img from "@public/2024/event-recaps/recap-9.png";
+import Recap10Img from "@public/2024/event-recaps/recap-10.png";
+import Recap11Img from "@public/2024/event-recaps/recap-11.png";
+import Recap12Img from "@public/2024/event-recaps/recap-12.png";
 
 export const eventRecapShots: RecapItem[] = [
   {

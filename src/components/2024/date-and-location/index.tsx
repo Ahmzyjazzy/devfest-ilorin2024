@@ -1,6 +1,6 @@
 import React from "react";
 
-import layer from "@public/icons/dates_lanyard.svg";
+import layer from "@public/2024/icons/dates_lanyard.svg";
 import Image from "next/image";
 import { Button } from "@chakra-ui/react";
 import { BsArrowUpRight } from "react-icons/bs";

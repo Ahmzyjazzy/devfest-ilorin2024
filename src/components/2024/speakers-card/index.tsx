@@ -1,5 +1,5 @@
 import React from "react";
-import lanyard from "@public/icons/lanyard-white-bg.svg";
+import lanyard from "@public/2024/icons/lanyard-white-bg.svg";
 import Image, { StaticImageData } from "next/image";
 
 type SpeakersCardProps = {

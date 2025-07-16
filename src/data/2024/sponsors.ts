@@ -1,9 +1,9 @@
 import { Sponsor } from "@/types";
-import sponsor1 from "@public/sponsors/sponsor-1.png";
-import sponsor2 from "@public/sponsors/sponsor-2.png";
-import sponsor3 from "@public/sponsors/sponsor-3.png";
-import sponsor4 from "@public/sponsors/sponsor-4.png";
-import sponsor5 from "@public/sponsors/sponsor-5.png";
+import sponsor1 from "@public/2024/sponsors/sponsor-1.png";
+import sponsor2 from "@public/2024/sponsors/sponsor-2.png";
+import sponsor3 from "@public/2024/sponsors/sponsor-3.png";
+import sponsor4 from "@public/2024/sponsors/sponsor-4.png";
+import sponsor5 from "@public/2024/sponsors/sponsor-5.png";
 
 export const sponsors: Sponsor[] = [
   {

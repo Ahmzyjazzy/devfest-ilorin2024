@@ -1,10 +1,10 @@
 import { Partner } from "@/types";
-import partner1 from "@public/partners/partner-1.png";
-import partner2 from "@public/partners/partner-2.png";
-import partner3 from "@public/partners/partner-3.png";
-import partner4 from "@public/partners/partner-4.png";
-import partner5 from "@public/partners/partner-5.png";
-import partner6 from "@public/partners/partner-6.png";
+import partner1 from "@public/2024/partners/partner-1.png";
+import partner2 from "@public/2024/partners/partner-2.png";
+import partner3 from "@public/2024/partners/partner-3.png";
+import partner4 from "@public/2024/partners/partner-4.png";
+import partner5 from "@public/2024/partners/partner-5.png";
+import partner6 from "@public/2024/partners/partner-6.png";
 
 export const partners: Partner[] = [
   {
