@@ -4,7 +4,7 @@ import React from "react";
 import { BsArrowUpRight } from "react-icons/bs";
 import { ctaLinks } from "@/data";
 
-const NewHomeHero = () => {
+const ThankYouHomeHero = () => {
   return (
     <section className="px-4 lg:px-20 bg-devfest-hero pt-10 h-[calc(100vh_-_130px)]">
       <div className="container mx-auto flex flex-col items-center justify-center gap-2 relative z-10 h-full">
@@ -51,4 +51,4 @@ const NewHomeHero = () => {
   );
 };
 
-export default NewHomeHero;
+export default ThankYouHomeHero;

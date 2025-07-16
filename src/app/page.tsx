@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import EventRecap from "./components/home/event-recap";
-import NewHomeHero from "./components/home/new-home-hero";
+import ThankYouHomeHero from "./components/home/thank-you-home-hero";
 import SpeakerSection from "./components/home/speaker-section";
 import SectionTitle from "./components/section-title";
 import { partners, sponsors } from "@/data";
@@ -11,7 +11,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <>
-      <NewHomeHero />
+      <ThankYouHomeHero />
       <EventRecap />
       <SpeakerSection />
 
