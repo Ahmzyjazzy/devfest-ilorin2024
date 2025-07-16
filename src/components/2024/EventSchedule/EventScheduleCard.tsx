@@ -1,5 +1,5 @@
 import React from "react";
-import timeIcon from "@public/icons/time.svg";
+import timeIcon from "@public/2024/icons/time.svg";
 import Image from "next/image";
 
 type LongEventScheduleCardProps = {

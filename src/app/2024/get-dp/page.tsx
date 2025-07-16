@@ -4,10 +4,10 @@ import { useState, useRef, useEffect, useCallback } from "react";
 import DpForm from "@/components/2024/dp/dp-form";
 import DpCanvas from "@/components/2024/dp/dp-canvas";
 import DateAndLocation from "@/components/2024/date-and-location";
-import blueImage from "@public/dp/blue.jpg";
-import yellowImage from "@public/dp/yellow.jpg";
-import redImage from "@public/dp/red.jpg";
-import greenImage from "@public/dp/green.jpg";
+import blueImage from "@public/2024/dp/blue.jpg";
+import yellowImage from "@public/2024/dp/yellow.jpg";
+import redImage from "@public/2024/dp/red.jpg";
+import greenImage from "@public/2024/dp/green.jpg";
 
 const colors = [
   { name: "Blue", value: "blue", image: blueImage.src },

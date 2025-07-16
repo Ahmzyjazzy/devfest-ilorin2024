@@ -1,15 +1,15 @@
-import part1 from "@public/community-partners/partner-1.png";
-import part2 from "@public/community-partners/partner-2.png";
-import part3 from "@public/community-partners/partner-3.png";
-import part4 from "@public/community-partners/partner-4.png";
-import part5 from "@public/community-partners/partner-5.png";
-import part6 from "@public/community-partners/partner-6.png";
-import part7 from "@public/community-partners/partner-7.png";
-import part8 from "@public/community-partners/partner-8.png";
-import part9 from "@public/community-partners/partner-9.png";
-import part10 from "@public/community-partners/partner-10.png";
-import part11 from "@public/community-partners/partner-11.png";
-import part12 from "@public/community-partners/partner-12.png";
+import part1 from "@public/2024/community-partners/partner-1.png";
+import part2 from "@public/2024/community-partners/partner-2.png";
+import part3 from "@public/2024/community-partners/partner-3.png";
+import part4 from "@public/2024/community-partners/partner-4.png";
+import part5 from "@public/2024/community-partners/partner-5.png";
+import part6 from "@public/2024/community-partners/partner-6.png";
+import part7 from "@public/2024/community-partners/partner-7.png";
+import part8 from "@public/2024/community-partners/partner-8.png";
+import part9 from "@public/2024/community-partners/partner-9.png";
+import part10 from "@public/2024/community-partners/partner-10.png";
+import part11 from "@public/2024/community-partners/partner-11.png";
+import part12 from "@public/2024/community-partners/partner-12.png";
 import { Partner } from "@/types";
 
 export const communityPartners: Partner[] = [

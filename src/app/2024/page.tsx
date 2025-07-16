@@ -8,9 +8,9 @@ import SpeakerSection from "@/components/2024/home/speaker-section";
 import SectionTitle from "@/components/2024/section-title";
 
 // import sunset from "@public/icons/icon-sunset.svg";
-import mainVenue from "@public/venues/main-venue.png";
-import privateNetwork from "@public/venues/private-network.png";
-import workshopVenue from "@public/venues/workshop-venue.png";
+import mainVenue from "@public/2024/venues/main-venue.png";
+import privateNetwork from "@public/2024/venues/private-network.png";
+import workshopVenue from "@public/2024/venues/workshop-venue.png";
 
 import { partners, sponsors } from "@/data/2024";
 import CommunityPartners from "@/components/2024/home/community-partners";

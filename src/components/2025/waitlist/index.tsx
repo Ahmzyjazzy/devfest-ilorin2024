@@ -2,8 +2,8 @@ import React from "react";
 
 const Waitlist = () => {
   return (
-    <div>
-      <h1 className="text-3xl font-bold">Waitlist</h1>
+    <div className="bg-[#ffe7a5] p-4">
+      <nav className="flex items-center"></nav>
     </div>
   );
 };

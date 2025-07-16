@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import { Button } from "@chakra-ui/react";
 import { BsArrowUpRight } from "react-icons/bs";
-import lanyard from "@public/icons/lanyard-white-bg.svg";
+import lanyard from "@public/2024/icons/lanyard-white-bg.svg";
 import { ctaLinks } from "@/data/2024";
 import {
   LongEventScheduleCard,
@@ -16,15 +16,15 @@ import {
   scheduleTwo,
 } from "@/data/2024/schedule";
 
-import aliyu from "@public/speakers/aliyu.png";
-import tosin from "@public/speakers/tosin.png";
-import alaran from "@public/speakers/alaran.png";
-import etiene from "@public/speakers/etiene.png";
+import aliyu from "@public/2024/speakers/aliyu.png";
+import tosin from "@public/2024/speakers/tosin.png";
+import alaran from "@public/2024/speakers/alaran.png";
+import etiene from "@public/2024/speakers/etiene.png";
 
-import taiye from "@public/speakers/taiye.png";
-import samuel from "@public/speakers/samuel.png";
-import goodness from "@public/speakers/goodness.png";
-import temi from "@public/speakers/temi.png";
+import taiye from "@public/2024/speakers/taiye.png";
+import samuel from "@public/2024/speakers/samuel.png";
+import goodness from "@public/2024/speakers/goodness.png";
+import temi from "@public/2024/speakers/temi.png";
 
 const Conference: React.FC = () => {
   return (
