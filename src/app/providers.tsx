@@ -1,7 +1,7 @@
 "use client";
 import ThemeProvider from "@/lib/providers/themeProvider";
-import Footer from "./components/footer";
-import NavMenu from "./components/menu/NavMenu";
+import Footer from "@/components/footer";
+import NavMenu from "@/components/menu/NavMenu";
 import { usePathname } from "next/navigation";
 import { ReactLenis } from "lenis/react";
 

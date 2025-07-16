@@ -1,9 +1,9 @@
 "use client";
 
 import { useState, useRef, useEffect, useCallback } from "react";
-import DpForm from "../components/dp/dp-form";
-import DpCanvas from "../components/dp/dp-canvas";
-import DateAndLocation from "../components/date-and-location";
+import DpForm from "@/components/dp/dp-form";
+import DpCanvas from "@/components/dp/dp-canvas";
+import DateAndLocation from "@/components/date-and-location";
 import blueImage from "@public/dp/blue.jpg";
 import yellowImage from "@public/dp/yellow.jpg";
 import redImage from "@public/dp/red.jpg";

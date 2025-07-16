@@ -1,6 +1,6 @@
 import React from "react";
-import { InfiniteMovingCards } from "@/app/components/infinite-moving-cards";
-import SectionTitle from "@component/section-title";
+import { InfiniteMovingCards } from "@/components/infinite-moving-cards";
+import SectionTitle from "@/components/section-title";
 import { eventRecapShots } from "@/data";
 
 export default function EventRecap() {

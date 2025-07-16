@@ -2,7 +2,7 @@ import { Button } from "@chakra-ui/react";
 import Link from "next/link";
 import React from "react";
 import { BsArrowUpRight } from "react-icons/bs";
-import ConfettiContainer from "@component/confetti/ConfettiContainer";
+import ConfettiContainer from "@/components/confetti/ConfettiContainer";
 import { ctaLinks } from "@/data";
 // import Image from "next/image";
 // import sunset from "@public/icons/icon-sunset.svg";

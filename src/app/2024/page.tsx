@@ -3,9 +3,9 @@
 import { Button } from "@chakra-ui/react";
 import Image from "next/image";
 import { BsArrowUpRight } from "react-icons/bs";
-import EventRecap from "../components/home/event-recap";
-import SpeakerSection from "../components/home/speaker-section";
-import SectionTitle from "../components/section-title";
+import EventRecap from "@/components/home/event-recap";
+import SpeakerSection from "@/components/home/speaker-section";
+import SectionTitle from "@/components/section-title";
 
 // import sunset from "@public/icons/icon-sunset.svg";
 import mainVenue from "@public/venues/main-venue.png";
@@ -13,12 +13,12 @@ import privateNetwork from "@public/venues/private-network.png";
 import workshopVenue from "@public/venues/workshop-venue.png";
 
 import { partners, sponsors } from "@/data";
-import CommunityPartners from "../components/home/community-partners";
-import HomeHero from "../components/home/home-hero";
+import CommunityPartners from "@/components/home/community-partners";
+import HomeHero from "@/components/home/home-hero";
 
 import { ctaLinks } from "@/data";
 import Link from "next/link";
-import Schedule from "../components/schedule";
+import Schedule from "@/components/schedule";
 
 export default function Home() {
   return (

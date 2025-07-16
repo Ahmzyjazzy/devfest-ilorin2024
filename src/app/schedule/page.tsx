@@ -1,10 +1,10 @@
 "use client";
 
 import { useState } from "react";
-import Conference from "../components/EventSchedule/Conference";
-import PrivateNetwork from "../components/EventSchedule/PrivateNetwork";
-import Workshop from "../components/EventSchedule/Workshop";
-import SectionTitle from "../components/section-title";
+import Conference from "@/components/EventSchedule/Conference";
+import PrivateNetwork from "@/components/EventSchedule/PrivateNetwork";
+import Workshop from "@/components/EventSchedule/Workshop";
+import SectionTitle from "@/components/section-title";
 
 export default function SchedulePage() {
   const [selectedCategory, setSelectedCategory] = useState("Day 1 (Workshop)");

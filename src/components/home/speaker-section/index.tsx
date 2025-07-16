@@ -1,8 +1,8 @@
 import { Button } from "@chakra-ui/react";
 import Link from "next/link";
 import { BsArrowUpRight } from "react-icons/bs";
-import SectionTitle from "@component/section-title";
-import SpeakersCard from "@component/speakers-card";
+import SectionTitle from "@/components/section-title";
+import SpeakersCard from "@/components/speakers-card";
 import { ctaLinks, speakers } from "@/data";
 import { Speaker } from "@/types";
 import { usePathname } from "next/navigation";
